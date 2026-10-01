@@ -32,8 +32,11 @@ To toggle the theme, change the `isDark` variable in `main.dart`.
 `true` for dark and `false` for light.
 
 
-## 🤓 Author(s)
-**Sazzad Hossain & Aminul Haque Ashik** [![LinkedIn Follow](https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_position_details%3BHGluf8YRQHGr0qb0Q0nC%2BA%3D%3D)](https://www.linkedin.com/in/sazzad-hossain-059a2a202/)
+## 👨‍💻 Author
+
+**Md. Aminul Haque Khan**
+
+GitHub: [@mdaminulhaquekhan](https://github.com/mdaminulhaquekhan)[![LinkedIn Follow](https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_position_details%3BHGluf8YRQHGr0qb0Q0nC%2BA%3D%3D)](https://www.linkedin.com/in/aminul-haque-khan-b936522a9/)
 
 
 ## 🔖 LICENCE
